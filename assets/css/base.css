@@ -189,6 +189,10 @@ article h3 {
 	word-wrap: break-word;
 }
 
+.post-content img {
+	width: 100%;
+}
+
 .post-read-all {
 	display: block;
 	width: 100%;
