@@ -6,9 +6,7 @@ A Typecho theme for [Codecho](http://nitrogens.xyz)
 
 # 说明/Introduction
 
-此主题基于 Typecho 1.1 (17.10.30) 制作，最新版本为 0.1.
-
-第一版，难免会有 Bug.
+此主题基于 Typecho 1.1 (17.10.30) 制作，最新版本为 0.2.
 
 如发现 Bug ，可直接在 Issues 提交。我看到后会及时修复。
 
