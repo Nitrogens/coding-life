@@ -316,7 +316,7 @@ article h3 {
 	display: inline-block;
 }
 
-.page-navigator a {
+.page-navigator a, .page-navigator span {
 	display: inline-block;
 	padding: 10px;
 	border-right: 1px solid #71a1c6;
@@ -671,7 +671,7 @@ article h3 {
 }
 
 .widget-tag {
-	padding: 20px;
+	padding: 5px 20px 20px 20px;
 	font-size: 20px;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
@@ -683,6 +683,7 @@ article h3 {
 .widget-tag li {
 	display: inline-block;
 	margin-right: 5px;
+	margin-top: 15px;
 }
 
 .widget-tag li a {
